@@ -2,6 +2,10 @@
   "name": "defi",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "15.x"
+    "npm": "7.x"
+  },
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
