@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@0x/order-utils": "^10.2.4",
+    "@sideway/address": "^4.1.0",
     "@truffle/hdwallet-provider": "^1.0.35",
     "axios": "^0.21.1",
     "console.table": "^0.10.0",
@@ -23,11 +24,13 @@
     "ejs": "^2.5.6",
     "express": "^4.15.2",
     "infura-web3-provider": "0.0.3",
+    "joi": "^17.3.0",
     "lodash": "^4.17.15",
     "moment": "^2.25.3",
     "moment-timezone": "^0.5.28",
     "numeral": "^2.0.6",
     "play-sound": "",
+    "react-scripts": "^4.0.2",
     "sha3": "2.0.2",
     "web3": "",
     "web3-provider-engine": ""
